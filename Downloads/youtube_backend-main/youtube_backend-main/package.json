@@ -1,0 +1,23 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "backend at runtime decoded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sayancode2026/youtube_backend.git"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Sayan Bardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sayancode2026/youtube_backend/issues"
+  },
+  "homepage": "https://github.com/Sayancode2026/youtube_backend#readme"
+}
